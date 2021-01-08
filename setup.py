@@ -7,13 +7,13 @@ setup(
 
     include_package_data=True,
 
-    version='0.3.0',
+    version='0.6.9',
 
-    description='ESPN fantasy football Chat Bot',
+    description='ESPN fantasy Basketball Chat Bot',
 
-    author='Dean Carlson',
+    author='OneLemonyBoi',
 
-    author_email='deantcarlson@gmail.com',
+    author_email='noemail@gmail.com',
 
     install_requires=['requests>=2.0.0,<3.0.0', 'espn_api==0.9.0', 'apscheduler>3.0.0'],
 
@@ -21,7 +21,7 @@ setup(
 
     tests_require=['nose', 'requests_mock'],
 
-    url='https://github.com/dtcarls/ff_bot',
+    url='https://github.com/OneLemonyBoi/fantasy_football_chat_bot/',
 
     classifiers=[
         'Natural Language :: English',
